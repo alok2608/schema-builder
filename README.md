@@ -14,6 +14,7 @@ A dynamic schema builder web app to generate and manage JSON-based form structur
 ---
 
 ## 📁 Project Structure
+```
 schema-builder/
 ├── public/ # Static files like favicon, icons
 ├── src/ # Main source code
@@ -30,7 +31,7 @@ schema-builder/
 ├── tsconfig.json # TypeScript config
 ├── vite.config.ts # Vite config
 └── README.md # Project documentation
-
+```
 ---
 
 ## 🚀 Getting Started

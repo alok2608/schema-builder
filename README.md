@@ -16,21 +16,21 @@ A dynamic schema builder web app to generate and manage JSON-based form structur
 ## 📁 Project Structure
 ```
 schema-builder/
-├── public/ # Static files like favicon, icons
-├── src/ # Main source code
-│ ├── components/ # Reusable UI components
-│ ├── hooks/ # Custom React hooks
-│ ├── lib/ # Helper utilities
-│ ├── pages/ # App pages / routes
-│ ├── styles/ # Tailwind CSS or custom styles
-│ ├── main.tsx # App entry point
-│ └── App.tsx # Root app layout
-├── .gitignore # Files ignored by Git
-├── package.json # Project dependencies and scripts
+├── public/          # Static files like favicon, icons
+├── src/              # Main source code
+│ ├── components/           # Reusable UI components
+│ ├── hooks/          # Custom React hooks
+│ ├── lib/             # Helper utilities
+│ ├── pages/            # App pages / routes
+│ ├── styles/         # Tailwind CSS or custom styles
+│ ├── main.tsx         # App entry point
+│ └── App.tsx        # Root app layout
+├── .gitignore        # Files ignored by Git
+├── package.json       # Project dependencies and scripts
 ├── tailwind.config.ts # Tailwind CSS configuration
-├── tsconfig.json # TypeScript config
-├── vite.config.ts # Vite config
-└── README.md # Project documentation
+├── tsconfig.json         # TypeScript config
+├── vite.config.ts      # Vite config
+└── README.md          # Project documentation
 ```
 ---
 
